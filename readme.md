@@ -17,4 +17,4 @@ The vision is to integrate blockchain-powered NFTs with the e-learning industry,
 - **On-Chain Certificates**: Award blockchain-based completion certificates to NFT owners.
 
 ## 5. Contract Address
-Deployed on Stacks testnet at:
+Deployed on Stacks testnet at: STMJK9ZQ6FBEZ0XPTBB3GXKQ8TX9VARFVF6B24SE
