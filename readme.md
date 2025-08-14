@@ -18,3 +18,6 @@ The vision is to integrate blockchain-powered NFTs with the e-learning industry,
 
 ## 5. Contract Address
 Deployed on Stacks testnet at: STMJK9ZQ6FBEZ0XPTBB3GXKQ8TX9VARFVF6B24SE
+<img width="1919" height="916" alt="Screenshot 2025-08-14 231444" src="https://github.com/user-attachments/assets/36d71b8d-4b22-4810-b49e-95516451ea08" />
+
+
